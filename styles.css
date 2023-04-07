@@ -1,12 +1,16 @@
 
 /* Your CSS Code here. */
-.container{
+#container{
 	margin:20px;
 	border:15px solid blue;
 	background:lightblue;
 	padding:50px;
 	width:300px;
 }
+#inner{
+	
+}
+
 
 
 
