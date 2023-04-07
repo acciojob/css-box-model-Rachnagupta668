@@ -2,14 +2,11 @@
 /* Your CSS Code here. */
 .container{
 	margin:20px;
-}
-.box1{
-
 	border:15px solid blue;
-	
-}
-.box2{
 	background:lightblue;
 	padding:50px;
 	width:300px;
 }
+
+
+
